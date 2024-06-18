@@ -4,7 +4,6 @@
 
 https://karaciubamikhail.github.io/Diplom_AJS/
 
-[![Build status](https://ci.appveyor.com/api/projects/status/gmwc61w0saosoegk?svg=true)](https://ci.appveyor.com/project/karaciubamikhail/diplom-ajs)
 
 ## Концепция игры
 
