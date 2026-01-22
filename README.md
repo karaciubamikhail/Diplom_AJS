@@ -2,7 +2,7 @@
 
 ###### tags: `netology` `advanced js`
 
-https://karaciubamikhail.github.io/Diplom_AJS/
+https://karaciubamikhail.github.io/RetroGame/
 
 
 ## Концепция игры
